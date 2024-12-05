@@ -1,0 +1,5 @@
+# Required libraries for the Number Plate Recognition project
+numpy==1.24.2
+opencv-python==4.5.5.62
+pytesseract==0.3.10
+Pillow==9.4.0
