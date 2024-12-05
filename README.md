@@ -26,13 +26,6 @@ cd number-plate-recognition
 Install the required dependencies:
 pip install -r requirements.txt
 
-Usage
-Prepare your input image(s):
-Place your image(s) in the images/ directory.
-
-Run the script:
-python recognize_plate.py --image <path_to_image>
-
 Example:
 python recognize_plate.py --image images/car.jpg
 
